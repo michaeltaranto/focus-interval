@@ -2,7 +2,7 @@ module.exports = {
   "parser": "babel-eslint",
   "env": {
     "es6": true,
-    "node": true
+    "browser": true
   },
   "plugins": [
     "mocha"
@@ -10,7 +10,6 @@ module.exports = {
   "globals": {
     "describe": true,
     "before": true,
-    "beforeEach": true,
     "after": true,
     "it": true
   },
