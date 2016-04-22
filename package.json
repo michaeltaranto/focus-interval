@@ -1,6 +1,6 @@
 {
   "name": "focus-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run a function on an interval while an element is focused",
   "main": "dist/index.js",
   "scripts": {
