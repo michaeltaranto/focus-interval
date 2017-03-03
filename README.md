@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/mjt01/focus-interval/master.svg?style=flat-square)](https://travis-ci.org/mjt01/focus-interval)
-[![Coverage Status](https://img.shields.io/coveralls/mjt01/focus-interval.svg?style=flat-square)](https://coveralls.io/github/mjt01/focus-interval?branch=master)
+[![Build Status](https://img.shields.io/travis/michaeltaranto/focus-interval/master.svg?style=flat-square)](https://travis-ci.org/michaeltaranto/focus-interval)
+[![Coverage Status](https://img.shields.io/coveralls/michaeltaranto/focus-interval.svg?style=flat-square)](https://coveralls.io/github/michaeltaranto/focus-interval?branch=master)
 [![npm](https://img.shields.io/npm/v/focus-interval.svg?style=flat-square)](https://www.npmjs.com/package/focus-interval)
 # focus-interval
 Run a function on an interval while an element is focused.
@@ -71,4 +71,4 @@ In this example leaving the `window` (e.g. the browser tab) for a period longer 
 
 ### License
 
-[MIT](http://mjt01.mit-license.org)
+[MIT](http://michaeltaranto.mit-license.org)
